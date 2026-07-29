@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+openpyxl
+pyarrow
+rapidfuzz
+pytest
+# Optional (AI enrichment bonus):
+# anthropic

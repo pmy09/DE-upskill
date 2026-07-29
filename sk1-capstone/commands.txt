@@ -1,0 +1,8 @@
+# setup
+pip3 install -r requirements.txt
+
+# full pipeline
+cd hr_pipeline && python3 pipeline.py
+
+# optional walkthrough
+jupyter notebook notebooks/capstone_pipeline.ipynb

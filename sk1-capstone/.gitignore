@@ -1,0 +1,8 @@
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+.ipynb_checkpoints/
+SK-01_Capstone_Project.md
+PLAN.md

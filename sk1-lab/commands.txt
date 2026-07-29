@@ -1,0 +1,8 @@
+# setup
+pip3 install -r requirements.txt
+
+# full pipeline
+cd my_pipeline && python3 pipeline.py
+
+# unit tests only
+cd my_pipeline && python3 -m pytest tests/ -v

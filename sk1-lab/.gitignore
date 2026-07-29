@@ -1,0 +1,6 @@
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+SK-01_End_to_End_Guided_Lab.md

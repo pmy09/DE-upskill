@@ -1,0 +1,2 @@
+rejected_at_utc,source_system,reason,raw_record
+2026-07-21T11:41:55.636332+00:00,payroll,ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.,"{""filepath"": ""/Users/amalitech-pc-10512/Documents/GitHub/DE-upskill/sk1-capstone/data/raw/payroll_data.xlsx""}"
