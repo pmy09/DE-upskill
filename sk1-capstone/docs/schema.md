@@ -2,7 +2,7 @@
 
 Unified, cleaned, and deduplicated employee records exported as Parquet partitioned by `company_origin`.
 
-Generated: 2026-07-28T08:15:08
+Generated: 2026-07-29T12:03:27
 Record count: 18,001
 
 | column_name | data_type | description | example_value |
